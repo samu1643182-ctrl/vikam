@@ -1,0 +1,14 @@
+# 🚀 Vikam
+Descripción breve de qué construyen y para quién.
+## 👥 Equipo
+migue Integrante 1 -
+reshe integrante 2 -
+samue integrante 3
+## ️ Tecnologías
+- **Frontend:** React /  HTML
+- **Backend:**  Laravel / Node.js
+- **Base de datos:** MySQL 
+## 📌 Estado actual
+En construcción 🚧
+## Ramas
+las ramas son utilizadas para que cada persona integrtante del equipo 
